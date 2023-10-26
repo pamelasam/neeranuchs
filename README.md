@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pamelasam
+- 👋 Hi, I’m Pam
 - 👀 I’m interested in Python, Laravel
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
